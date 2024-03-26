@@ -16,3 +16,4 @@ _ReSharper*/
 .fake/
 # cake:
 Tools/
+*.meta
